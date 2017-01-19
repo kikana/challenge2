@@ -1,0 +1,168 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px auto;
+    max-width: 1250px;
+    font-family: "Times New Roman", Times, sans-serif;
+
+}
+
+.header {
+    background-color: white;
+    background-image: url("img/your-party.png");
+    background-repeat: no-repeat;
+    height: 85px;
+    width: 1250px;
+    margin-top: 30px;
+}
+
+.floatright {
+    float: right;
+    margin-top: 15px;
+    margin-right: 60px;
+    color: white; 
+    
+}
+
+.top {
+    background-image: url("img/enchant-your-guests.jpg");
+    background-repeat: no-repeat;
+    width: 1248px;
+    height: 400px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px gray;
+    position: relative;
+}
+
+.items {
+    margin-left: 40px;
+    color: #1a1aff;
+}
+
+.floatright {
+    float: right;
+    margin-top: 18px;
+    margin-right: 70px;
+    color: #c2c2a3;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.padding {
+    text-align: center;
+    padding: 45px;
+}
+
+button {
+    background-color: green;
+    height: 60px;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.icons {
+    background-color: #1a1aff;
+    text-align: center;
+    padding: 1em 0;
+    
+}
+
+.feature {
+    text-align: center;
+    color: white;
+    display: inline-block;
+    padding: 0 1em;
+    }
+
+    .float {
+        background-color: white;
+       
+    }
+
+    .romance {
+        width: 330px;
+        height: 105px;
+
+    }
+
+    .last {
+        margin-right: 0;
+    }
+
+    .floatleft {
+        float: left;
+        width: 30%;
+        position: relative;
+        line-height: 0;
+        margin-right: 1.30%;
+        margin-bottom: 1.30%;
+    }
+
+.img {
+    z-index: 0;
+    width: 100%;
+}
+
+.zindex {
+    z-index: 1;
+    position: absolute;
+    background-color: rgba(00, 00, 00, 0.5);
+    color: white;
+    font-size: 30px;
+    bottom: 0;
+    padding: 0.5em 1em;
+    width: 100%;
+    line-height: 1.3em;
+
+}
+
+.pictures {
+    max-width: 1120px;
+    margin: 0px auto;
+}
+
+.bottom {
+    margin-top: 40px;
+    background-color: #1a1aff;
+    color: white;
+    padding: 30px;
+   
+}
+
+
+.bottom {
+    position: relative;
+    padding: 20px;
+}
+
+.textbottom {
+    width: 390px;
+    display: inline-block;
+
+}
+
+.titlebottom {
+    width: 320px;
+    font-size: 14px;
+}
+
+
+
+   
+
+
